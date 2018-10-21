@@ -19,10 +19,7 @@ The images are from the Berkeley Segmentation Dataset. Work based on the dataset
 
 The videos are from institute for infocomm research (I2R) and background models challenge datasets.
 
-L. Li, W. Huang, I. Y. H. Gu, and Q. Tian, “Statistical modeling of com-
-plex backgrounds for foreground object detection,” IEEE Transactions
-on Image Processing, vol. 13, no. 11, pp. 1459–72, 2004.
+L. Li, W. Huang, I. Y. H. Gu, and Q. Tian, “Statistical modeling of complex backgrounds for foreground object detection,” IEEE Transactions on Image Processing, vol. 13, no. 11, pp. 1459–72, 2004.
 
-A. Vacavant, T. Chateau, A. Wilhelm, and L. Lequièvre, “A bench-
-mark dataset for outdoor foreground/background extraction,” in Asian
+A. Vacavant, T. Chateau, A. Wilhelm, and L. Lequièvre, “A benchmark dataset for outdoor foreground/background extraction,” in Asian
 Conference on Computer Vision. Springer, 2012, pp. 291–300.
