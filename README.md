@@ -1,5 +1,5 @@
 # IRTPCAcode
-The matlab code is for the paper ''Improved Robust Tensor Principal Component Analysis via Low Rank Core Matrix''. Some functions for tsvd, you can also refer to https://github.com/canyilu/LibADMM.
+The matlab code is for the paper ''Improved Robust Tensor Principal Component Analysis via Low Rank Core Matrix''. The paper you can find from https://ieeexplore.ieee.org/document/8477047. Some functions for tsvd, you can also refer to https://github.com/canyilu/LibADMM.
 
 The images are from the Berkeley Segmentation Dataset. Work based on the dataset should cite the paper:
 
@@ -15,7 +15,9 @@ The images are from the Berkeley Segmentation Dataset. Work based on the dataset
   pages = {416--423}
 }
 
-The videos videos are from institute for infocomm research (I2R) and background models challenge datasets.
+
+
+The videos are from institute for infocomm research (I2R) and background models challenge datasets.
 
 L. Li, W. Huang, I. Y. H. Gu, and Q. Tian, “Statistical modeling of com-
 plex backgrounds for foreground object detection,” IEEE Transactions
